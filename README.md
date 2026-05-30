@@ -18,7 +18,7 @@ The following assets are available:
 ## Instructions
 
 See the notes in the presentation for instructions on how to run this tabletop session.
-The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people knto the session.
+The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
 When playing with multiple teams, let one person on the team lead the session. This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets. 
 
 ## What This Game Scenario Covers
