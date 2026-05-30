@@ -3,7 +3,7 @@
 <img src="/images/pwnednext.jpg" width="1000">
 
 Through gamification, this OWASP Cornucopia LLM Companion Guide uses the OWASP Cornucopia Website App and Companion Edition to introduce developers and testers to threats, risks, and requirements related to AI design and development and teaches how to mitigate AI risks.
-The game takes the participants through a provocative scenario where they have to identify AI threats by studying an insecure AI implementation. They need to ask themselves, "What can go wrong?" and "What are we going to do about it"? Furthermore, by playing, they will get to know which tests from the OWASP AI Test Guide (AITG) and OWASP AI Security Verification Standard (AISVS) need to be considered in order to responsibly develop AI applications.
+The game takes the participants through a provocative scenario where they have to identify AI threats by studying an insecure AI implementation. They need to ask themselves, "What can go wrong?" and "What are we going to do about it?" Furthermore, by playing, they will get to know which tests from the OWASP AI Test Guide (AITG) and OWASP AI Security Verification Standard (AISVS) need to be considered in order to responsibly develop AI applications.
 
 ## Assets
 
