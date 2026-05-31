@@ -26,7 +26,7 @@ This person will be the team's game master and will receive the link to the chea
 There is a slide in the presentation with the 10 Steps for playing Cornucopia.
 Project the slide using a projector for the duration of the session.
 Make sure to ask people to write down ways to mitigate against the threats they find.
-Use Post-it notes and attach them to the A1 poster.
+Use post-it notes and attach them to the A1 poster.
 If possible, save 30 min where you call everyone in and wrap up the session.
 
 Ask questions like: 
