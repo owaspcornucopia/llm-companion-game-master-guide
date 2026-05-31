@@ -23,7 +23,8 @@ See the notes in the presentation for instructions on how to run this tabletop s
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
 When playing with multiple teams, let one person on the team lead the session.
 This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
-There is a slide in the presentation with the 10 Steps for playing Cornucopia. Project the slide using a projector for the duration of the session.
+There is a slide in the presentation with the 10 Steps for playing Cornucopia.
+Project the slide using a projector for the duration of the session.
 Make sure to ask people to write down ways to mitigate against the threats they find.
 Use Post-it notes and attach them to the A1 poster.
 If possible, save 30 min where you call everyone in and wrap up the session.
