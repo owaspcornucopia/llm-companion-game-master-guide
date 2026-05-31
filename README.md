@@ -69,7 +69,7 @@ If you have customers that need to comply with the AI Act or you have or want to
 The following controls are applicable in this regard:
 
 - A.6.2 (Responsible AI Design and Development): Developers must be trained on how to apply ethical and safe design patterns. They need to understand principles like transparency, fairness, and safety boundaries during coding.
-- A.6.3 (Verification and Validation): Testers and QA engineers must be trained in AI-specific testing methods. This includes evaluating model accuracy, checking for algorithmic drift, testing against adversarial attacks, and verifying 
+- A.6.3 (Verification and Validation): Testers and QA engineers must be trained in AI-specific testing methods. This includes evaluating model accuracy, checking for algorithmic drift, testing against adversarial attacks, and verifying. 
 - A.4.2 (Human Resources) mandates that organisations must ensure they have access to adequate human resources with the necessary AI expertise to develop systems safely. Training programs for internal developers and testers are standard evidence used to fulfil this control.
 
 ## Disclaimer
