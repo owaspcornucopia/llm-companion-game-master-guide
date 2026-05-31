@@ -11,7 +11,8 @@ The following assets are available:
 
 - Presentation: [odt](/presentation.odp), [pptx](/presentation.pptx), [pdf](/presentation.pdf)
 - High-res A1 poster for team table top sessions: [illustrator](/A1-poster.ai). [pdf](/A1-poster.pdf)
-- Vulnerable App: [AI Anti-Fraud 3.0](https://github.com/owaspcornucopia/llm-companion-scenario)
+- Vulnerable Apps:
+  - Backend Python Scenario: [AI Anti-Fraud 3.0](https://github.com/owaspcornucopia/llm-companion-scenario)
 - Cheat Sheets (For game masters): [PwnedNext - LLM App Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
 
@@ -19,7 +20,11 @@ The following assets are available:
 
 See the notes in the presentation for instructions on how to run this tabletop session.
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
-When playing with multiple teams, let one person on the team lead the session. This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets. 
+When playing with multiple teams, let one person on the team lead the session. This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
+
+### AI Anti-Fraud 3.0 Scenario - Backend
+
+Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
 
 ## What This Game Scenario Covers
 
