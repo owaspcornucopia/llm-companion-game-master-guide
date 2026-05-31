@@ -12,19 +12,33 @@ The following assets are available:
 - Presentation: [odt](/presentation.odp), [pptx](/presentation.pptx), [pdf](/presentation.pdf)
 - High-res A1 poster for team table top sessions: [illustrator](/A1-poster.ai). [pdf](/A1-poster.pdf)
 - Vulnerable Apps:
-  - Backend Python Scenario: [AI Anti-Fraud 3.0](https://github.com/owaspcornucopia/llm-companion-scenario)
-- Cheat Sheets (For game masters): [PwnedNext - LLM App Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
+  - [AI Anti-Fraud 3.0 - Python Backend](https://github.com/owaspcornucopia/llm-companion-scenario)
+- Cheat Sheets (For game masters):
+  - [AI Anti-Fraud 3.0 - Python Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
 
 ## Instructions
 
 See the notes in the presentation for instructions on how to run this tabletop session.
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
-When playing with multiple teams, let one person on the team lead the session. This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
+When playing with multiple teams, let one person on the team lead the session.
+This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
+There is a slide in the presentation with the 10 Steps for playing Cornucopia. Project the slide using a projector for the duration of the session.
+Make sure to ask people to write down ways to mitigate against the threats they find.
+Use Post-it notes and attach them to the A1 poster.
+If possible, save 30 min where you call everyone in and wrap up the session.
+
+Ask questions like: 
+
+- Did you find any interesting threats?
+- Did you use the cheat sheets or scan the QR codes?
+- Did you learn anything interesting?
+- Would you do this again?
 
 ### AI Anti-Fraud 3.0 Scenario - Backend
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
+Use the 
 
 ## What This Game Scenario Covers
 
