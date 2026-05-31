@@ -53,7 +53,7 @@ This training is made specifically to cover these needs.
 
 ## Did we do a good job?
 
-If you would like us to improve OWASP Cornucopia, please use [this survey](https://forms.gle/8LGoHSbrKsZqdShSA) and share it with the participants of this session. 
+If you would like us to improve OWASP Cornucopia, please use [this survey](https://forms.gle/QBjRKENjSva4cy7q7) and share it with the participants of this session. 
 
 ## ISO 42001:2023
 
