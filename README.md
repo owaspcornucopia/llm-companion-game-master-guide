@@ -51,7 +51,7 @@ Because ISO 42001:2023 ensures transparency, fairness, and accountability in AI,
 
 This training is made specifically to cover these needs.
 
-## Survey
+## Did we do a good job?
 
 If you would like us to improve OWASP Cornucopia, please use [this survey](https://forms.gle/8LGoHSbrKsZqdShSA) and share it with the participants of this session. 
 
