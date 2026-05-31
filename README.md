@@ -36,6 +36,10 @@ Ask questions like:
 - Did you learn anything interesting?
 - Would you do this again?
 
+## Survey
+
+If you would like us to improve OWASP Cornucopia, please use [this survey](https://forms.gle/8LGoHSbrKsZqdShSA) and share it with the participants of this session. 
+
 ### AI Anti-Fraud 3.0 Scenario - Backend
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
