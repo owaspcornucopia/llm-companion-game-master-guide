@@ -65,3 +65,8 @@ This work is a derivative of OWASP Cornucopia, used under the Creative Commons A
 This derivative work is also published under the same CC BY-SA 4.0 license.
 While this license explicitly permits free commercial use, a significant amount of time and effort went into adapting and maintaining this resource.
 If your organisation derives commercial value from this material (e.g., for internal training, client audits, or commercial services), we kindly request that you consider supporting our ongoing work with a [voluntary donation](https://owasp.org/donate/?reponame=cornucopia&title=OWASP+Cornucopia).
+
+## Image
+
+The original image, ["Building_glass_wall.jpg"](https://commons.wikimedia.org/wiki/File:Building_glass_wall.jpg) as been adapted to the above image.
+The original image is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. While the original maintain the original license our adaption is licensed under CC BY-SA 4.0.
