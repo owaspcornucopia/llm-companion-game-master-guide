@@ -91,7 +91,7 @@ If your organisation derives commercial value from this material (e.g., for inte
 
 ## Attribution
 
-The idea is based on [Engineers & Exploits](https://github.com/northdpole/engineers-and-exploits-the-quest-for-security) - A Cornucopia workshop. 
+The idea is based on [Engineers & Exploits](https://github.com/northdpole/engineers-and-exploits-the-quest-for-security) - A Cornucopia workshop which is licensed under CC BY-SA 4.0.
 
 The original image, ["Building_glass_wall.jpg"](https://commons.wikimedia.org/wiki/File:Building_glass_wall.jpg) as been adapted to the above image.
 The original image is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. While the original maintain the original license our adaption is licensed under CC BY-SA 4.0.
