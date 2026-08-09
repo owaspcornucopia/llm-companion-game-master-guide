@@ -14,6 +14,7 @@ The following assets are available:
 - Vulnerable Apps:
   - [AI Anti-Fraud 3.0 - Python Backend](https://github.com/owaspcornucopia/llm-companion-scenario)
   - [AI Anti-Fraud 3.0 - Dotnet Backend](https://github.com/owaspcornucopia/llm-companion-scenario-dotnet)
+  - [AI Anti-Fraud 3.0 - Java Backend](https://github.com/owaspcornucopia/llm-companion-scenario-java)
   - [AI Anti-Fraud 3.0 - Typescript Backend](https://github.com/owaspcornucopia/llm-companion-scenario-typescript)
 - Cheat Sheets (For game masters):
   - [AI Anti-Fraud 3.0 - Python & Dotnet Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
