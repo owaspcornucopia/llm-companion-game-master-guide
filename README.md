@@ -13,7 +13,8 @@ The following assets are available:
 - High-res A1 poster for team table top sessions: [illustrator](/A1-poster.ai). [pdf](/A1-poster.pdf)
 - Vulnerable Apps:
   - [AI Anti-Fraud 3.0 - Python Backend](https://github.com/owaspcornucopia/llm-companion-scenario)
-  - [AI Anti-Fraud 3.0 - Dotnet Backend](https://github.com/owaspcornucopia/llm-companion-scenario)
+  - [AI Anti-Fraud 3.0 - Dotnet Backend](https://github.com/owaspcornucopia/llm-companion-scenario-dotnet)
+  - [AI Anti-Fraud 3.0 - Typescript Backend](https://github.com/owaspcornucopia/llm-companion-scenario-typescript)
 - Cheat Sheets (For game masters):
   - [AI Anti-Fraud 3.0 - Python & Dotnet Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
