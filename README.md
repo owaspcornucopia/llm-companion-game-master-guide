@@ -85,6 +85,13 @@ ISO/IEC 42001 is an externally referenced standard and is not included in this r
 
 This training material does not, by itself, make an organisation ISO/IEC 42001 compliant and should not be treated as certification, legal advice, or a complete implementation guide. At most, it may serve as a small supporting aid when considering and implementing some of the Annex A controls referenced in this README.
 
+## Safety boundary
+
+Run this project only with synthetic transactions in an isolated emulator. Do not
+connect it to a real bank, real credentials, or a production model. The
+comments are intentionally blunt and overconfident to help you, who are not
+reading every line of code, understand why each insecure choice exists.
+
 ## License
 
 This work is a derivative of OWASP Cornucopia, used under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. 
