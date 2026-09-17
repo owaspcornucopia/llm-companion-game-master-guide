@@ -87,7 +87,7 @@ This training material does not, by itself, make an organisation ISO/IEC 42001 c
 
 ## Safety boundary
 
-Run this project only with synthetic transactions in an isolated emulator. Do not
+Run this project only with synthetic transactions in isolated emulators. Do not
 connect it to a real bank, real credentials, or a production model. The
 comments are intentionally blunt and overconfident to help you, who are not
 reading every line of code, understand why each insecure choice exists.
