@@ -22,6 +22,7 @@ The following assets are available:
 - Cheat Sheets (For game masters):
   - [AI Anti-Fraud 3.0 - Mobile & Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
+- Threat model template: Each app has its own OWASP Threat Dragon EoP Games DFD editable in [OWASP Threat Dragon](https://www.threatdragon.com/#/dashboard).
 
 ## Instructions
 
