@@ -46,6 +46,8 @@ Ask questions like:
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
 Use both the OWASP Cornucopia Website App Edition and the LLM suit from the Companion Edition
+Both can be acquired physically by buying the [OWASP Cornucopia 25th Anniversary edition at CyberSec Games](https://cybersecgames.com/products/owasp-cornucopia-web-app-with-companion-edition).
+You can also set up a game session online at [copi.owasp.org](https://copi.owasp.org)
 
 ### AI Anti-Fraud 3.0 Scenario - Mobile
 
