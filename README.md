@@ -20,7 +20,7 @@ The following assets are available:
   - [AI Anti-Fraud 3.0 - Android App](https://github.com/owaspcornucopia/llm-companion-scenario-android)
   - [AI Anti-Fraud 3.0 - IOS App](https://github.com/owaspcornucopia/llm-companion-scenario-ios)
 - Cheat Sheets (For game masters):
-  - [AI Anti-Fraud 3.0 - Python & Dotnet Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
+  - [AI Anti-Fraud 3.0 - Mobile & Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
 
 ## Instructions
