@@ -45,6 +45,12 @@ Ask questions like:
 ### AI Anti-Fraud 3.0 Scenario - Backend
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
+Use both the OWASP Cornucopia Website App Edition and the LLM suit from the Companion Edition
+
+### AI Anti-Fraud 3.0 Scenario - Mobile
+
+Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
+Use both the OWASP Cornucopia Mobile App Edition and the LLM suit from the Companion Edition
 
 ## What This Game Scenario Covers
 
