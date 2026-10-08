@@ -9,7 +9,9 @@ The game takes the participants through a provocative scenario where they have t
 
 The following assets are available:
 
-- Presentation: [odt](/presentation.odp), [pptx](/presentation.pptx), [pdf](/presentation.pdf)
+- Presentation for the LLM Companion Guide: [odt](/presentation.odp), [pdf](/presentation.pdf)
+- Presentation for introducing Cornucopia: [odt](/cornucopia-introduction.odp), [pdf](/cornucopia-introduction.pdf) 
+- Presentation for the LLM Top 10: [odt](/llmtop10presentation.odp), [pdf](/llmtop10presentation.pdf)
 - High-res A1 poster for team table top sessions: [illustrator](/A1-poster.ai). [pdf](/A1-poster.pdf)
 - Vulnerable Web Apps:
   - [AI Anti-Fraud 3.0 - Python Web](https://github.com/owaspcornucopia/llm-companion-scenario)
@@ -26,10 +28,11 @@ The following assets are available:
 
 ## Instructions
 
-See the notes in the presentation for instructions on how to run this tabletop session.
-Slide 1-3 can be cut. It gives you a rational for why the participant should be there, but isn't strictlt necessary. 
-Slide 4-18 can be cut. They go through the OWASP Top 10 for LLM and test the players by letting them play Promptfall a, a game you can play on the mobile phone.
-Slide 19-28 can be cut. Those slides goes through the basic of the game. Instead, if you are in a hurry, show the first 10 min of the video on slide 29.
+- See the notes in the [LLM Companion Guide](/presentation.odp) presentation for instructions on how to run this tabletop session.
+- Slide 1-3 for the [LLM Companion Guide](/presentation.odp) can be cut. It gives you a rational for why the participant should be there, but isn't strictly necessary.
+- Presentation for introducing Cornucopia: [odt](/cornucopia-introduction.odp), [pdf](/cornucopia-introduction.pdf), can be used if you want to present what Cornucopia is, but it's not strictly necessary to use it, Instead, if you are in a hurry, show the first 10 min of the video that is part of the [LLM Companion Guide](/presentation.odp).
+- Presentation for the LLM Top 10: [odt](/llmtop10presentation.odp), [pdf](/llmtop10presentation.pdf), goes through the OWASP Top 10 for LLM and test the players by letting them play Promptfall, a game you can play on the mobile phone. Presenting the LLM top 10 is good to do if the players aren't familiar with LLM risks. It will help them when playing the LLM Cornucopia Companion guide scenario.
+
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
 When playing with multiple teams, let one person on the team lead the session.
 This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
