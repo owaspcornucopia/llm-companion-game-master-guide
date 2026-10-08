@@ -12,21 +12,24 @@ The following assets are available:
 - Presentation: [odt](/presentation.odp), [pptx](/presentation.pptx), [pdf](/presentation.pdf)
 - High-res A1 poster for team table top sessions: [illustrator](/A1-poster.ai). [pdf](/A1-poster.pdf)
 - Vulnerable Web Apps:
-  - [AI Anti-Fraud 3.0 - Python Backend](https://github.com/owaspcornucopia/llm-companion-scenario)
-  - [AI Anti-Fraud 3.0 - Dotnet Backend](https://github.com/owaspcornucopia/llm-companion-scenario-dotnet)
-  - [AI Anti-Fraud 3.0 - Java Backend](https://github.com/owaspcornucopia/llm-companion-scenario-java)
-  - [AI Anti-Fraud 3.0 - Typescript Backend](https://github.com/owaspcornucopia/llm-companion-scenario-typescript)
+  - [AI Anti-Fraud 3.0 - Python Web](https://github.com/owaspcornucopia/llm-companion-scenario)
+  - [AI Anti-Fraud 3.0 - Dotnet Web](https://github.com/owaspcornucopia/llm-companion-scenario-dotnet)
+  - [AI Anti-Fraud 3.0 - Java Web](https://github.com/owaspcornucopia/llm-companion-scenario-java)
+  - [AI Anti-Fraud 3.0 - Typescript Web](https://github.com/owaspcornucopia/llm-companion-scenario-typescript)
 - Vulnerable Mobile Apps:
   - [AI Anti-Fraud 3.0 - Android App](https://github.com/owaspcornucopia/llm-companion-scenario-android)
   - [AI Anti-Fraud 3.0 - IOS App](https://github.com/owaspcornucopia/llm-companion-scenario-ios)
 - Cheat Sheets (For game masters):
-  - [AI Anti-Fraud 3.0 - Mobile & Backend Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
+  - [AI Anti-Fraud 3.0 - Mobile & Web Cheat Sheet](https://github.com/owaspcornucopia/cornucopia-cheatsheets-llm)
 - Various Assets: [images](/images)
 - Threat model template: Each app has its own OWASP Threat Dragon EoP Games DFD editable in [OWASP Threat Dragon](https://www.threatdragon.com/#/dashboard).
 
 ## Instructions
 
 See the notes in the presentation for instructions on how to run this tabletop session.
+Slide 1-3 can be cut. It gives you a rational for why the participant should be there, but isn't strictlt necessary. 
+Slide 4-18 can be cut. They go through the OWASP Top 10 for LLM and test the players by letting them play Promptfall a, a game you can play on the mobile phone.
+Slide 19-28 can be cut. Those slides goes through the basic of the game. Instead, if you are in a hurry, show the first 10 min of the video on slide 29.
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
 When playing with multiple teams, let one person on the team lead the session.
 This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
@@ -43,7 +46,7 @@ Ask questions like:
 - Did you learn anything interesting?
 - Would you do this again?
 
-### AI Anti-Fraud 3.0 Scenario - Backend
+### AI Anti-Fraud 3.0 Scenario - Web
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
 Use both the OWASP Cornucopia Website App Edition v3.0 and the LLM suit from the Companion Edition
