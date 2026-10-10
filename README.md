@@ -36,6 +36,7 @@ The following assets are available:
 The players will be allowed to inspect the source code and view the diagrams. There is an A1 poster that can be used as a print-out to help people into the session.
 When playing with multiple teams, let one person on the team lead the session.
 This person will be the team's game master and will receive the link to the cheat sheet. Show the person the [QR code](/images/cheatsheets-qr-code-link.png) for the cheat sheets.
+It’s quite fun if the game master pretend to be the lead developer that has built the app, but it’s not strictly necessary, tell the game master to give information about why a threat is applicable or not ehen a card is played, not just yes/no. Through getting to know this information, the game advances and help the players to play new cards. The GM can also choose to help a player that struggles by giving hints. 
 There is a slide in the presentation with the 10 Steps for playing Cornucopia.
 Project the slide using a projector for the duration of the session.
 Make sure to ask people to write down ways to mitigate against the threats they find.
