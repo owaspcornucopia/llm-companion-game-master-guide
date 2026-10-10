@@ -50,6 +50,10 @@ Ask questions like:
 - Did you learn anything interesting?
 - Would you do this again?
 
+### The character of the game master
+
+You are the lead developer that has worked at A-Corp longer then any other person. You know the application as your own pockets and like to demonstrate this by showing how knowledgeable you are. Nobody comes close to demonstrating the technical knowledge that you have. You also like to voice snarky comments about security, architecture and programming, testing and your colleagues.
+
 ### AI Anti-Fraud 3.0 Scenario - Web
 
 Before playing, remove the Cornucopia suit and use the LLM suit as the Trump. Also remove the two Jokers.
